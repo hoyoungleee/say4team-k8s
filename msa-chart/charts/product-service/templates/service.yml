@@ -4,7 +4,7 @@ metadata:
   name: product-service
 spec:
   selector:
-    app: product-boot
+    app: product-service
   ports:
     - protocol: TCP
       port: {{ .Values.port }}
