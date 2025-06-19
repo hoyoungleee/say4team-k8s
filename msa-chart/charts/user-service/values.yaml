@@ -7,6 +7,6 @@
 
 replicaCount: 3
 
-image: 940791490007.dkr.ecr.ap-northeast-2.amazonaws.com/user-service:latest
+image: 940791490007.dkr.ecr.ap-northeast-2.amazonaws.com/user-service:56f2ab9b0d164eb9631291efccd7a2b335538f17
 
 port: 8081
