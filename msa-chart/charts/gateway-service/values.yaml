@@ -7,6 +7,6 @@
 
 replicaCount: 2
 
-image: 940791490007.dkr.ecr.ap-northeast-2.amazonaws.com/gateway-service:latest
+image: 940791490007.dkr.ecr.ap-northeast-2.amazonaws.com/gateway-service:e42f9f1e97a9288e41c03d498e61665d267ccd08
 
 port: 8000
