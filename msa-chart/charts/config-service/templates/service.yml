@@ -11,4 +11,4 @@ spec:
     - protocol: TCP
       port: {{ .Values.port }}
       targetPort: {{ .Values.port }}
-  type: NodePort
+  type: ClusterIP
